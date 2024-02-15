@@ -1,7 +1,23 @@
 h1{
  color:blue;
- font: size 75px;  
+ font-size: 75px;  
 
 
-25px;
-]
+
+
+}
+i{
+    font-size: 25PX;
+}
+
+
+
+
+header{
+    background: -o-linear-gradient(110deg,yellow 40%,pink 40%);
+}
+
+section{
+
+    background: lightgrey;
+}
