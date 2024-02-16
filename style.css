@@ -14,10 +14,25 @@ i{
 
 
 header{
-    background: -o-linear-gradient(110deg,yellow 40%,pink 40%);
+    background: linear-gradient(110deg,yellow 40%, pink 40%);
 }
 
 section{
 
     background: lightgrey;
 }
+
+div{
+    text-align: center;
+    padding: 40px;
+}
+
+
+  h3{
+border:2px solid white ;
+padding: 15px ;
+font-size: 45px;
+margin: auto;
+max-width: 400p;
+  }
+
